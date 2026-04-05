@@ -29,6 +29,3 @@ This code tests the **maximum solvable instance size** of the WHS exact algorith
 ```bash
 g++ WHS极限.cpp -O2 -o limit
 ./limit
-
-## 相关文档
-- [WHS,DLX对比](README2.md)
