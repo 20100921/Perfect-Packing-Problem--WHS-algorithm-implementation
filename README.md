@@ -23,12 +23,12 @@ This code tests the **maximum solvable instance size** of the WHS exact algorith
 | 3D        | 17×17×17          |
 
 ## File
-- limit_test.cpp
+- WHS极限.cpp
 
 ## Compile & Run
 ```bash
-g++ limit_test.cpp -O2 -o limit
+g++ WHS极限.cpp -O2 -o limit
 ./limit
 
 ## 相关文档
-- [WHS,DLX对比](sslocal://flow/file_open?url=README2.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [WHS,DLX对比](README2.md)
