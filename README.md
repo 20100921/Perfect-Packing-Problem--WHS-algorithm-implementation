@@ -31,4 +31,4 @@ g++ limit_test.cpp -O2 -o limit
 ./limit
 
 ## 相关文档
-- [WHS, DLX对比](sslocal://flow/file_open?url=.%2FREADME2.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [WHS,DLX对比](sslocal://flow/file_open?url=README2.md&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
